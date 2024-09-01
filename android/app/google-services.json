@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1088587041627",
+    "project_id": "youndermartapp",
+    "storage_bucket": "youndermartapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088587041627:android:fc78c8eb31a1704d08e87e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088587041627-ihems5olj085olge676d5ji4ae86vm5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerceapplication",
+            "certificate_hash": "507d9ca24d1c349484ce251463a9d26822b0e773"
+          }
+        },
+        {
+          "client_id": "1088587041627-r7ji6v87va1fkscgbo2uuva0kumqelp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWNahBBveOqNpUL7iJiaOfkisyvemhq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088587041627-r7ji6v87va1fkscgbo2uuva0kumqelp8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088587041627-uj7pb7rqoke2japdt0i1nsjnc6pcd6ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
